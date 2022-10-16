@@ -2,4 +2,4 @@
 
 **Containerization with Docker**
 
-Building and Deploying a Flask Applictions using Docker
+Building and Deploying Applictions using Docker
